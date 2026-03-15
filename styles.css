@@ -375,9 +375,9 @@
       .exp-grid { grid-template-columns: 1fr; }
       .exp-card.featured { grid-column: 1; }
       .edu-layout { grid-template-columns: 1fr; }
+      .contact-bar { padding: 2.5rem 1.5rem 4rem; }
     }
-  padding: 2.5rem 1.5rem 4rem;
-}
+
 
 /* -- TOPBAR ------------------------------------------ */
 .topbar {
